@@ -6,8 +6,7 @@ authors:
     given-names: Rodhan
     orcid: "https://orcid.org/0000-0001-8318-2521"  # Optional ORCID
 title: "RNA_Seq_Volcano_Plotter_Mongan_Rutland_Jeyapalan_Group"
-version: "1.0.0"
-doi: "10.5281/zenodo.1234567"  # Optional DOI
+version: "1.12.0"
 date-released: 2024-06-18
 url: "https://github.com/Rodhanp/RNA_Seq_Volcano_Plotter_Mongan_Rutland_Jeyapalan_Group"
 keywords:
