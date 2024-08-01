@@ -1,0 +1,18 @@
+# Begin YAML file
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Patke
+    given-names: Rodhan
+    orcid: "https://orcid.org/0000-0001-8318-2521"  # Optional ORCID
+title: "RNA_Seq_Volcano_Plotter_Mongan_Rutland_Jeyapalan_Group"
+version: "1.0.0"
+doi: "10.5281/zenodo.1234567"  # Optional DOI
+date-released: 2024-06-18
+url: "https://github.com/Rodhanp/RNA_Seq_Volcano_Plotter_Mongan_Rutland_Jeyapalan_Group"
+keywords:
+  - GitHub
+  - RNA-seq
+  - Volcano-plot
+license: "MIT"
+# End YAML file
