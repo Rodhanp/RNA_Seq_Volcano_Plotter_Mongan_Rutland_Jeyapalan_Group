@@ -5,8 +5,31 @@ authors:
   - family-names: Patke
     given-names: Rodhan
     orcid: "https://orcid.org/0000-0001-8318-2521"  # Optional ORCID
+  - family-names: Woodcock
+    given-names: Corinne
+  - family-names: Lothion-Roy
+    given-names: Jennifer
+  - family-names: Harris
+    given-names: Anna
+  - family-names: Haque
+    given-names: Maria
+  - family-names: Varun
+    given-names: Dhruvika
+  - family-names: Thompson
+    given-names: Rachel
+  - family-names: Jackson-Oxley
+    given-names: Jorja
+  - family-names: Kumari
+    given-names: Amber
+  - family-names: Jeyapalan
+    given-names: Jennie
+  - family-names: Rutland
+    given-names: Catrin
+  - family-names: Mongan
+    given-names: Nigel
 title: "RNA_Seq_Volcano_Plotter_Mongan_Rutland_Jeyapalan_Group"
 version: "1.12.0"
+#doi:  # Optional DOI
 date-released: 2024-06-18
 url: "https://github.com/Rodhanp/RNA_Seq_Volcano_Plotter_Mongan_Rutland_Jeyapalan_Group"
 keywords:
